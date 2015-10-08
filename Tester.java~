@@ -1,0 +1,13 @@
+/*
+ * Project: Tester.java
+ * Description: Tests Circle.java, Dice.java, Polygon.java
+ * Name: Juyoung Lee
+ * Date: Oct 8, 2015
+ */
+
+public class Tester {
+  public static void main ( String[] args) {
+    
+  }// end main method
+  
+} // end Tester 

@@ -1,0 +1,10 @@
+/*
+ * Polygon.java
+ */
+
+public class Polygon {
+  public Polygon () {
+    
+  }// end polygon()
+  
+} // end polygon 

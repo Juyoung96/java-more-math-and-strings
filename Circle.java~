@@ -1,0 +1,10 @@
+/*
+ * CIrcle.java
+ */
+
+public class Circle {
+  public Circle () {
+    
+  }// end Circle()
+  
+} // end Circle 
